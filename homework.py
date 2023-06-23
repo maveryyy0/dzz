@@ -1,7 +1,7 @@
 
 
 def palindromes():
-    word = input("Введите палиндром: ")
+    word = input("Введите слово-палиндром: ")
     if word==word[::-1]:
         return True
     return False

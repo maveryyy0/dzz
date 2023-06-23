@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../AppData/Local/SquirrelTemp"
+		},
+		{
+			"path": "../../../../../../sites"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sites"
+	}
+}
